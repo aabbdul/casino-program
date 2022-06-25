@@ -1,1 +1,1 @@
-dapet dari instagram kodenya 
+from Instagram 
